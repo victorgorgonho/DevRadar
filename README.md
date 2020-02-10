@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
+    <img alt="DevRadar" title="#delicinha" src="github/devradar.svg" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src="github/devradar.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -45,7 +45,7 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 
 ## 🔖 Layout
 
-Você pode baixar o layout do projeto no formato `.sketch` através [desse link](.github/DevRadar.sketch).
+Você pode baixar o layout do projeto no formato `.sketch` através [desse link](github/DevRadar.sketch).
 
 Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
 
