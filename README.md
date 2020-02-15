@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src="github/devradar.svg" width="250px" />
+    <img alt="DevRadar" src="github/devradar.svg" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -23,7 +23,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>
 </p>
 
 <br>
